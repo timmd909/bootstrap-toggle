@@ -1,3 +1,8 @@
+# ATTENTION !
+
+> This is a Bootstrap v4 Fork. All Bootstrap 2 and 3 stuff has or will be
+> removed from where.
+
 # Bootstrap Toggle
 Bootstrap Toggle is a highly flexible Bootstrap plugin that converts checkboxes into toggles.
 
